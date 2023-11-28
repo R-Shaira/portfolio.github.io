@@ -12177,7 +12177,7 @@ legend {
 }
 
 .hero {
-  background-image: url("https://i.pinimg.com/564x/a9/16/82/a91682ac202a75c33de8248e288e4c6e.jpg");
+  background-image: url('images/bg.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
